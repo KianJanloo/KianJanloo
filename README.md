@@ -70,5 +70,6 @@
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kian-janloo-6b7473344/)
+[![Email](https://img.shields.io/badge/-Email-green?style=for-the-badge&logo=email&logoColor=white)](mailto:KianJanloo10@gmail.com)
 
 ---
