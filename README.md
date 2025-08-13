@@ -17,69 +17,59 @@ I'm a front-end developer with **3+ years of experience** building clean, respon
 I love crafting intuitive UIs, optimizing performance, and bringing ideas to life through code.
 
 - 💡 Passionate about modern UX/UI design
-- 🧱 Focused on modular, maintainable, and accessible web development
+- 🧱 Focused on modular, maintainable, and accessible front-end development
 - 📚 Always learning, always building
+- ⚡ Familiar with back-end technologies like **NestJS**, **Express**, **TypeORM**, **MongoDB**, and **PostgreSQL**
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages & Frameworks
+### **Frontend**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css)
+![Shadcn/UI](https://img.shields.io/badge/-shadcn/ui-000?style=flat)
 
-### Tools & Libraries
+### **Backend (Familiarity)**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat&logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-000?style=flat)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### **Tools & Libraries**
 ![Zustand](https://img.shields.io/badge/-Zustand-000?style=flat&logo=zustand)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react-query)
 ![NextAuth](https://img.shields.io/badge/-NextAuth.js-000?style=flat)
 ![JWT](https://img.shields.io/badge/-JWT-000?style=flat&logo=jsonwebtokens)
-![Shadcn/UI](https://img.shields.io/badge/-shadcn/ui-000?style=flat)
-
-### Design & Utilities
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 
 ---
 
-## 🏆 Key Highlights
-
-- ✅ Built **admin dashboards** with RBAC, JWT, and fast APIs
-- 🎨 Designed UIs in Figma and implemented with Tailwind & Styled Components
-- 🚀 Optimized pages with SSR & SSG (Next.js) → **30% faster load**
-- 🔒 Secured apps with NextAuth, refresh tokens, and advanced state control
-- 🧠 Used Zustand + React Query for advanced state management
-
----
-
 ## 📂 Featured Projects
 
-### 🧠 [SkillPlus Platform](https://github.com/KianJanloo/SkillPlus)
-> A gamified educational platform built with Next.js, Zustand, and TailwindCSS. Includes full admin panel, secure auth, and responsive UI.
-
 ### 🏡 [Delta Real Estate Platform](https://github.com/KianJanloo/DeltaRealEstate)
-> Real estate platform with 3D tour, user roles, and investment features using Socket.IO, NestJS, and React.
+> Modern real estate platform built with **Next.js**, **Tailwind CSS**, **TypeScript**, and **ShadCN/UI**. Includes authentication, property listings, booking system, and responsive dashboards.
 
-### 👤 [Personal Website](https://myself-wheat.vercel.app)
-> Portfolio website built with React + TailwindCSS to showcase my projects, skills, and experience.
+### 🧠 [SkillPlus Platform](https://github.com/KianJanloo/SkillPlus)
+> Gamified educational platform with admin panel, secure auth, responsive UI built using **Next.js**, **Zustand**, and **Tailwind CSS**.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KianJanloo&show_icons=true&theme=tokyonight&hide_border=true" alt="Kian's GitHub Stats" />
-</p>
+### 👤 [Personal Portfolio](https://myself-wheat.vercel.app)
+> Portfolio site showcasing projects, skills, and experience, built with **React** and **Tailwind CSS**.
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: [KianJanloo10@gmail.com](mailto:KianJanloo10@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/kian-janloo-6b7473344](https://linkedin.com/in/kian-janloo-6b7473344)
+- 📧 Email: [KianJanloo10@gmail.com](mailto:KianJanloo10@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/kian-janloo-6b7473344](https://linkedin.com/in/kian-janloo-6b7473344)  
 - 🌐 Website: [myself-wheat.vercel.app](https://myself-wheat.vercel.app)
 
 ---
