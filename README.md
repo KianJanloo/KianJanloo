@@ -55,11 +55,8 @@ I love crafting intuitive UIs, optimizing performance, and bringing ideas to lif
 
 ## 📂 Featured Projects
 
-### 🏡 [Delta Real Estate Platform](https://github.com/KianJanloo/DeltaRealEstate)
+### 🏡 [Delta Real Estate Platform](https://github.com/KianJanloo/Delta)
 > Modern real estate platform built with **Next.js**, **Tailwind CSS**, **TypeScript**, and **ShadCN/UI**. Includes authentication, property listings, booking system, and responsive dashboards.
-
-### 🧠 [SkillPlus Platform](https://github.com/KianJanloo/SkillPlus)
-> Gamified educational platform with admin panel, secure auth, responsive UI built using **Next.js**, **Zustand**, and **Tailwind CSS**.
 
 ### 👤 [Personal Portfolio](https://myself-wheat.vercel.app)
 > Portfolio site showcasing projects, skills, and experience, built with **React** and **Tailwind CSS**.
