@@ -60,6 +60,9 @@ I love crafting intuitive UIs, optimizing performance, and bringing ideas to lif
 ### 👤 <a href="https://myself-wheat.vercel.app">Personal Portfolio</a>
 > Portfolio site showcasing projects, skills, and experience, built with <b>React</b> and <b>Tailwind CSS</b>.
 
+### 🍔 <a href="https://myself-wheat.vercel.app">Burger Cafe</a>
+> Burger Cafe, built with <b>Next.js</b>, <b>Framer Motion</b>, <b>i18n</b>, <b>TypeScript</b> and <b>Tailwind CSS</b>.
+
 ---
 
 ## 📫 Contact Me
