@@ -63,7 +63,7 @@ I love crafting intuitive UIs, optimizing performance, and bringing ideas to lif
 ### 🍔 <a href="https://burger-cafee.netlify.app">Burger Cafe</a>
 > Burger Cafe, built with <b>Next.js</b>, <b>Framer Motion</b>, <b>i18n</b>, <b>TypeScript</b> and <b>Tailwind CSS</b>.
 
-### 📚 <a href="https://myself-wheat.vercel.app">Todo</a>
+### 📚 <a href="https://todo-kian.netlify.app">Todo</a>
 > Todo List, built with <b>Next.js</b>, <b>Context</b>, <b>TypeScript</b> and <b>Tailwind CSS</b>.
 
 ---
