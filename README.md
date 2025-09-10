@@ -63,8 +63,14 @@ I love crafting intuitive UIs, optimizing performance, and bringing ideas to lif
 ### 🍔 <a href="https://burger-cafee.netlify.app">Burger Cafe</a>
 > Burger Cafe, built with <b>Next.js</b>, <b>Framer Motion</b>, <b>i18n</b>, <b>TypeScript</b> and <b>Tailwind CSS</b>.
 
-### 📚 <a href="https://todo-kian.netlify.app">Todo</a>
+### 🗺️ <a href="https://todo-kian.netlify.app">Todo List</a>
 > Todo List, built with <b>Next.js</b>, <b>Context</b>, <b>TypeScript</b> and <b>Tailwind CSS</b>.
+
+### 📚 <a href="https://book-city-production.up.railway.app">Book City API</a>
+> Book City, <b>Nest.js</b>, <b>Authintication System</b>, <b>Rest API</b> and <b>Swagger UI</b>.
+
+### 🎮 <a href="https://game-store-kappa-woad.vercel.app">Game Store API</a>
+> Game Store, built with <b>Express.js</b>.
 
 ---
 
