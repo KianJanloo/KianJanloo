@@ -66,6 +66,9 @@ I love crafting intuitive UIs, optimizing performance, and bringing ideas to lif
 ### 🗺️ <a href="https://todo-kian.netlify.app">Todo List</a>
 > Todo List, built with <b>Next.js</b>, <b>Context</b>, <b>TypeScript</b> and <b>Tailwind CSS</b>.
 
+### ⌚ <a href="https://time-craft-kian.netlify.app">Time Craft</a>
+> Game Store, built with <b>Next.js</b>, <b>TypeScript</b>, <b>react-hot-toast</b>, <b>zustand</b>.
+
 ### 📚 <a href="https://book-city-production.up.railway.app">Book City API</a>
 > Book City, <b>Nest.js</b>, <b>Authintication System</b>, <b>Rest API</b> and <b>Swagger UI</b>.
 
