@@ -3,7 +3,7 @@
   💻 <b>Full Stack Developer</b> | 🧠 React & Next.js Expert | 🚀 UX/UI Enthusiast | 💎 NodeJS ( Express, NestJS )
 </p>
 <p align="center">
-  <a href="https://myself-wheat.vercel.app" target="_blank">🌐 Portfolio</a> •
+  <a href="https://myself-wheat.vercel.app" target="_blank">🌐 Website</a> •
   <a href="https://www.linkedin.com/in/kian-janloo-6b7473344/" target="_blank">💼 LinkedIn</a> •
   <a href="mailto:KianJanloo10@gmail.com">📩 Email</a>
 </p>
