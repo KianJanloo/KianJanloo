@@ -11,7 +11,7 @@
 ---
 
 ## 🧑‍💻 About Me
-A <b>Full Stack developer</b> passionate about building modern, responsive, and user-centric web apps with React , Next.js and Node.js.
+A <b>Full Stack developer</b> passionate about building modern, responsive, and user-centric web apps with <b>React</b> , <b>Next.js</b> and <b>Node.js</b>.
 
 - 💡 Passionate about modern UX/UI design
 - 🧱 Focused on modular, maintainable, and accessible front-end development
