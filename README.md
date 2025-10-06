@@ -52,31 +52,6 @@ I love crafting intuitive UIs, optimizing performance, and bringing ideas to lif
 
 ---
 
-## 📂 Featured Projects
-
-### 🏡 <a href="https://github.com/KianJanloo/Delta">Delta Real Estate Platform</a>
-> Modern real estate platform built with <b>Next.js</b>, <b>Tailwind CSS</b>, <b>TypeScript</b>, and <b>ShadCN/UI</b>. Includes authentication, property listings, booking system, and responsive dashboards.
-
-### 👤 <a href="https://myself-wheat.vercel.app">Personal Portfolio</a>
-> Portfolio site showcasing projects, skills, and experience, built with <b>React</b> and <b>Tailwind CSS</b>.
-
-### 🍔 <a href="https://burger-cafee.netlify.app">Burger Cafe</a>
-> Burger Cafe, built with <b>Next.js</b>, <b>Framer Motion</b>, <b>i18n</b>, <b>TypeScript</b> and <b>Tailwind CSS</b>.
-
-### 🗺️ <a href="https://todo-kian.netlify.app">Todo List</a>
-> Todo List, built with <b>Next.js</b>, <b>Context</b>, <b>TypeScript</b> and <b>Tailwind CSS</b>.
-
-### ⌚ <a href="https://time-craft-kian.netlify.app">Time Craft</a>
-> Game Store, built with <b>Next.js</b>, <b>TypeScript</b>, <b>react-hot-toast</b>, <b>zustand</b>.
-
-### 📚 <a href="https://book-city-production.up.railway.app">Book City API</a>
-> Book City, <b>Nest.js</b>, <b>Authintication System</b>, <b>Rest API</b> and <b>Swagger UI</b>.
-
-### 🎮 <a href="https://game-store-kappa-woad.vercel.app">Game Store API</a>
-> Game Store, built with <b>Express.js</b>.
-
----
-
 ## 📫 Contact Me
 - 📧 Email: <a href="mailto:KianJanloo10@gmail.com">KianJanloo10@gmail.com</a>
 - 💼 LinkedIn: <a href="https://linkedin.com/in/kian-janloo-6b7473344">linkedin.com/in/kian-janloo-6b7473344</a>
